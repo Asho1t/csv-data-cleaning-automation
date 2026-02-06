@@ -1,0 +1,13 @@
+2026-02-06 22:35:36,842 [INFO] Automation started
+2026-02-06 23:22:16,154 [INFO] Automation started
+2026-02-06 23:25:54,355 [ERROR] File does not exist: Downloads/products.csv
+2026-02-06 23:25:54,355 [ERROR] Validation failed. Automation stopped.
+2026-02-06 23:26:43,302 [INFO] Automation started
+2026-02-06 23:27:25,523 [ERROR] File does not exist: products.csv
+2026-02-06 23:27:25,523 [ERROR] Validation failed. Automation stopped.
+2026-02-06 23:32:22,008 [INFO] Automation started
+2026-02-06 23:37:38,882 [INFO] CSV validated succesfully.Required column '['Price', 'Stock Quantity']' exists.
+2026-02-06 23:37:38,975 [INFO] CSV loaded successfully. Rows: 10000
+2026-02-06 23:37:39,037 [INFO] Data cleaned successfully. Dropped 0 rows (deviation 0.00). Missing price: 0, missing quantity: 0.
+2026-02-06 23:37:39,124 [INFO] Cleaned file saved as cleaned_output.csv
+2026-02-06 23:37:39,124 [INFO] Automation finished successfully
